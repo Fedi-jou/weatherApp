@@ -1,3 +1,6 @@
+## tha main purpose of this app is not the weather but to get in use with Pwa via coding a manifest, serviceworker , offline files and testing ur app in chrome with pwa tool .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
